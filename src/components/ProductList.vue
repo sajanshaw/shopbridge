@@ -151,7 +151,7 @@
             value: 'Name',
           },
           { text: 'Description', value: 'Description' },
-          { text: 'Price', value: 'Price' },
+          { text: 'Price (₹)', value: 'Price' },
           { text: 'In Stock', value: 'ItemInStock' },
           { text: 'Actions', value: 'actions', sortable: false },
         ],
